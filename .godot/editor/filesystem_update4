@@ -1,0 +1,3 @@
+res://scenes/character/player.tscn
+res://scripts/character/player.gd
+res://scenes/world/world.tscn
